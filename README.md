@@ -5,8 +5,8 @@
 # Technologies
 
 * Client 
-    * Typescript
-    * Angular
+    * Typescript 5.0
+    * Angular v15
 
 * Server
     * Softuni Practice Server - https://github.com/softuni-practice-server/softuni-practice-server

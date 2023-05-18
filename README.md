@@ -1,8 +1,6 @@
 # SoftUni-Angular-Project-Defense
 
-# Project Status
-
-* Frozen
+- Project Status - Frozen
 
 # Technologies
 
